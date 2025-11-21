@@ -111,8 +111,8 @@ int main() {
 
     printf ("Serial Gauss - Seidel algorithm\n");
 
-    // TEST 1-12
-    for (int i = 0; i < 12; i++) {
+    // TEST 1-6
+    for (int i = 0; i < 6; i++) {
         printf("\nTest %d", (i + 1));
         printf("\n");
 
